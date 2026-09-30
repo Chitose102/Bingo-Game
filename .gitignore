@@ -1,0 +1,9 @@
+# Java
+*.class
+
+# Eclipse settings
+.settings/
+
+# Build output
+bin/
+target/
