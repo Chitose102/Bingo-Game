@@ -1,9 +1,5 @@
 package Bingo;
 
-/**
- * @author 千歳真咲
- */
-
 import java.util.ArrayList;
 import java.util.Collections;
 
